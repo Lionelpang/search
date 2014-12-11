@@ -1,0 +1,411 @@
+
+Request 1: computer algorithm
+1. with frequence normalised:
+  2675     2.00 A Computer Routine for Quadratic and Linear Programming Problem
+  2589     2.00 A Computer Routine for Quadratic and Linear Programming Problem
+  2426     2.00 Algorithms SCALE1, SCALE2, and SCALE3 for Determination of Scal
+  2004     1.80 A Procedure for Generation of Three-dimensional Half-toned Comp
+  2209     1.67 A Scheduling Algorithm for a Computer Assisted Registration Sys
+  1066     1.60 Growing Applications of Linear Programming
+  2453     1.50 Information Theory Applied to the Conversion of Decision Tables
+  1433     1.50 A Note on Linear Programming Algorithm Design: A Combinatorial
+  1326     1.50 Boundary Networks
+  2490     1.33 Efficient Algorithms for Graph Manipulation [H] (Algorithm A447
+  2285     1.33 Computer Routine for Quadratic and Linear Programming Problems
+   558     1.33 A Modified Inversion Procedure for Product Form of the Inverse
+  2969     1.25 Optimal Program and Data Locations in Computer Networks
+  2220     1.25 Conversion of Limited-Entry Decision Tables to Computer Program
+  2186     1.25 Numerical Properties of the Ritz-Trefftz Algorithm for Optimal
+  1197     1.25 Finding Zeros of a Polynomial by the Q-D Algorithm
+  3154     1.20 Algorithm = Logic + Control
+  1946     1.20 Computing Polynomial Resultants: Bezout's Determinant vs. Colli
+  1172     1.20 Conversion of Limited-Entry Decision Tables to Computer Program
+  1771     1.00 CURRICULUM 68 -- Recommendations for Academic Programs in Compu
+  2916     1.00 A Fast String Searching Algorithm
+  2535     1.00 The Effects of Multiplexing on a Computer-Communications System
+  1543     1.00 Computer Formulation of the Equations of Motion Using Tensor No
+  3130     1.00 CURRICULUM '78 - Recommendations for the Undergraduate Program
+  3069     1.00 A Practical Interprocedural Data Flow Analysis Algorithm
+  2812     1.00 Computer-Aided Analysis and Design of Information Systems
+  2701     1.00 A Fast and Usually Linear Algorithm for Global Flow Analysis (A
+  2657     1.00 An Improved Program-Synthesizing Algorithm and Its Correctness
+  2598     1.00 Extending the Information Theory Approach to Converting Limited
+  2181     1.00 The State of Computer Oriented Curricula in Business Schools 19
+  2031     1.00 Algorithm and Bound for the Greatest Common Divisor of n Intege
+  2030     1.00 Context-Sensitive Parsing
+   678     1.00 Optimizing Bit-time Computer Simulation
+  3117     1.00 The Impact and Use of Computer Technology by the Police
+  3106     1.00 A Fast Algorithm for Copying List Structures
+  3071     1.00 An Algorithm Using Symbolic Techniques for the Bel-Petrov Class
+  2899     1.00 A Survey of Computer Science Offerings In Small Liberal Arts Co
+  2862     1.00 Analysis of the PFF Replacement Algorithm via a Semi-Markov Mod
+  2852     1.00 The Technology of Computer Center Management: A Proposed Course
+  2554     1.00 Reduction of a Band-Symmetric Generalized Eigenvalue Problem
+  2388     1.00 Optimizing Binary Trees Grown With a Sorting Algorithm
+  2110     1.00 An Efficient Context-free Parsing Algorithm
+  2105     1.00 An Interactive Computer System Using Graphical Flowchart Input
+  1961     1.00 An Efficient Search Algorithm to Find the Elementary Circuits o
+  1654     1.00 A University's Educational Program in Computer Science
+  1594     1.00 An Algorithm for Generating Permutations
+  1504     1.00 Algorithms for Finding a Fundamental Set of Cycles for an Undir
+  1386     1.00 Symbolic Factoring of Polynomials in Several Variables
+  1385     1.00 Computer Technology in Communist China, 1956-1965
+  1169     1.00 An Algorithm for Minimizing Backboard Wiring Functions
+   417     1.00 Legal Implications of Computer Use
+  3078     1.00 Analysis of the Availability of Computer Systems Using Computer
+  3050     1.00 Systems Design Education: A Gaming Approach
+  3037     1.00 A Linear Sieve Algorithm for Finding Prime Numbers
+  2954     1.00 A Bounded Storage Algorithm for Copying Cyclic Structures
+  2855     1.00 An Efficient List-Moving Algorithm Using Constant Workspace
+  2829     1.00 Texture and Reflection in Computer Generated Images
+  2390     1.00 A Proposal for a Computer-Based Interactive Scientific Communit
+  2187     1.00 Computer Science: A Conceptual Framework for Curriculum Plannin
+  2146     1.00 Optimizing the Polyphase Sort
+  2062     1.00 The Application of Sequential Sampling to Simulation: An Exampl
+  2054     1.00 On the Feasibility of Voice Input to an On-line Computer Proces
+  2042     1.00 Treesort 3 (Algorithm 245 $M1))
+  1735     1.00 A Futures Market in Computer time
+  1679     1.00 A Fast Fourier Transform Algorithm for Real-Valued Series
+  1559     1.00 Permutation Generator; Permutation in Lexicographical Order; Pe
+  1540     1.00 An Algorithm for Class Scheduling With Section Preference
+  1453     1.00 A Nonrecursive Method of Syntax Specification
+  1409     1.00 NEBULA: A Digital Computer Using a 20 Mc Glass Delay Line Memor
+  1030     1.00 Techniques for the Simulation of Computer Logic
+   322     1.00 Operational Compatibility of Systems-CONVENTIONS
+   284     1.00 Manipulation of Algebraic Expressions
+  3172     1.00 An Algorithm for Planning Collision-Free Paths Among Polyhedral
+  3141     1.00 An Improved Algorithm for Decentralized Extrema-Finding in Circ
+  3095     1.00 A Selective Traversal Algorithm for Binary Search Trees
+  3074     1.00 A Time- and Space- Efficient Garbage Compaction Algorithm
+  2987     1.00 Representation of Many-Sided Polygons and Polygonal Lines for R
+  2930     1.00 The GRE Advanced Test in Computer Science
+  2837     1.00 New Upper Bounds for Selection
+  2785     1.00 Glypnir-A Programming Language for Illiac IV
+  2769     1.00 A Modification of Warshall's Algorithm for the Transitive Closu
+  2754     1.00 A Syntactic Algorithm for Peak Detection in Waveforms with Appl
+  2695     1.00 Tridiagonalization by Permutations
+  2670     1.00 Efficient Implementation of a Variable Projection Algorithm for
+  2546     1.00 The Use of Grammatical Inference for Designing Programming Lang
+  2538     1.00 A Computer Science Course Program for Small Colleges
+  2368     1.00 An Implemented Graph Algorithm for Winning Shannon Switching ga
+  2318     1.00 The Role of Computer System Models in Performance Evaluation
+  2185     1.00 A Note on Compiling Fixed Point Binary Multiplications
+  2134     1.00 An Extension of the Munkres Algorithm for the Assignment Proble
+  2094     1.00 On an Algorithm for Nonlinear Minimax Approximation
+  1915     1.00 An Algorithm for Hidden Line Elimination
+  1910     1.00 An Algorithm for Solving a Special Class of Tridiagonal Systems
+  1858     1.00 An Algorithm for Filon Quadrature
+  1852     1.00 A Base for a Mobile Programming System
+  1834     1.00 An Axiomatic Basis for Computer Programming
+  1826     1.00 A LISP Garbage-Collector for Virtual-Memory Computer Systems
+  1809     1.00 Numerical Analysis in a Ph.D. Computer Science Program
+  1768     1.00 A Global Parser for Context-Free Phrase Structure Grammars
+  1686     1.00 Computer Synthesis of Holograms for 3-D Display
+
+2. With tf*idf normalised:
+    29     1.00 Need for an Algorithm
+  1066     0.64 Growing Applications of Linear Programming
+  2969     0.62 Optimal Program and Data Locations in Computer Networks
+  2453     0.53 Information Theory Applied to the Conversion of Decision Tables
+  1172     0.50 Conversion of Limited-Entry Decision Tables to Computer Program
+  2285     0.49 Computer Routine for Quadratic and Linear Programming Problems
+   678     0.48 Optimizing Bit-time Computer Simulation
+  2004     0.48 A Procedure for Generation of Three-dimensional Half-toned Comp
+   558     0.48 A Modified Inversion Procedure for Product Form of the Inverse
+    93     0.46 From Formulas to Computer Oriented Language
+  1183     0.45 A Note on the Use of a Digital Computer for Doing Tedious Algeb
+   728     0.44 Computer-Drawn Flowcharts*
+   322     0.43 Operational Compatibility of Systems-CONVENTIONS
+  1281     0.42 Data Input by Question and Answer
+   124     0.42 An Algorithm for the Assignment Problem
+  2598     0.42 Extending the Information Theory Approach to Converting Limited
+  2105     0.42 An Interactive Computer System Using Graphical Flowchart Input
+  1030     0.41 Techniques for the Simulation of Computer Logic
+  2054     0.41 On the Feasibility of Voice Input to an On-line Computer Proces
+  2187     0.41 Computer Science: A Conceptual Framework for Curriculum Plannin
+  1214     0.40 Some Experiments in Algebraic Manipulation by Computer
+   940     0.40 Generating Discrete Random Variables in a Computer
+   436     0.39 Evaluation of Polynomials by Computer
+  2209     0.39 A Scheduling Algorithm for a Computer Assisted Registration Sys
+  1306     0.39 A Class of Unambiguous Computer Languages
+  1809     0.39 Numerical Analysis in a Ph.D. Computer Science Program
+  2318     0.39 The Role of Computer System Models in Performance Evaluation
+  1326     0.39 Boundary Networks
+  1543     0.38 Computer Formulation of the Equations of Motion Using Tensor No
+  2079     0.38 On Multiprogramming, Machine Coding, and Computer Organization
+  2881     0.37 A Counterintuitive Example of Computer Paging
+   491     0.37 Use of Multiprogramming in the Design of a Low Cost Digital Com
+  1654     0.37 A University's Educational Program in Computer Science
+  1453     0.37 A Nonrecursive Method of Syntax Specification
+   496     0.37 A Set of Matrices for Testing Computer Programs
+  1951     0.37 Estimates of Distributions of Random Variables for Certain Comp
+  1771     0.36 CURRICULUM 68 -- Recommendations for Academic Programs in Compu
+  1208     0.36 Simulation of Computer Logic by Fortran Arithmetic
+  2675     0.36 A Computer Routine for Quadratic and Linear Programming Problem
+  2589     0.36 A Computer Routine for Quadratic and Linear Programming Problem
+  2220     0.36 Conversion of Limited-Entry Decision Tables to Computer Program
+  1169     0.36 An Algorithm for Minimizing Backboard Wiring Functions
+  2624     0.36 Formal Requirements for Virtualizable Third Generation Architec
+  1843     0.36 The Choice of Base
+  1188     0.36 An ALGOL-like Computer Design Language
+    71     0.35 Proposal for a Feasible Programming System
+  2535     0.35 The Effects of Multiplexing on a Computer-Communications System
+  3204     0.35 An On-Line Program for Non-Numerical Algebra
+  2370     0.35 An Experimental Laboratory for Pattern Recognition and Signal P
+  1260     0.35 Least-Squares Analysis of Resonance Spectra on Small Computers
+  1083     0.35 An Experiment in a User-Oriented Computer System
+  2196     0.35 A Man-Machine Approach Toward Solving the Traveling Salesman Pr
+  2852     0.35 The Technology of Computer Center Management: A Proposed Course
+  2180     0.35 A Programmer Training Project
+  2502     0.34 A Comment on the Practical Aspects of Computer Science Educatio
+  2221     0.34 Comment on the Conversion of Decision Tables to Computer Progra
+   175     0.34 The Solution of Simultaneous Ordinary Differential Equations Us
+    57     0.34 J.E.I.D.A. and Its Computer Center
+  1642     0.34 Time Sharing on a Computer with a Small Memory
+  1834     0.34 An Axiomatic Basis for Computer Programming
+  1196     0.34 Applications of Differential Equations in General Problem Solvi
+   525     0.34 A Computer Technique for Handling Analysis of Variance
+  1525     0.34 On Computing The Fast Fourier Transform
+  1901     0.34 Dynamic Space-Sharing in Computer Systems
+  1908     0.33 Time-Sharing and Batch-Processing: An Experimental Comparison o
+  1445     0.33 Use of the Computer to Teach Introductory Statistics
+  3078     0.33 Analysis of the Availability of Computer Systems Using Computer
+  2426     0.33 Algorithms SCALE1, SCALE2, and SCALE3 for Determination of Scal
+   185     0.33 Multiprogram Scheduling Parts 1 and 2. Introduction and Theory*
+  1329     0.33 Simulation of Boolean Functions in a Decimal computer
+   361     0.33 Programmed Error Correction on a Decimal Computer
+  3050     0.33 Systems Design Education: A Gaming Approach
+    37     0.32 Impact of Computer Developments
+  2062     0.32 The Application of Sequential Sampling to Simulation: An Exampl
+  3202     0.32 MANIP: A Computer System for Algebra and Analytic Differentiati
+  1309     0.32 A Computer User-Oriented System
+  2490     0.32 Efficient Algorithms for Graph Manipulation [H] (Algorithm A447
+  1844     0.32 A Modular Computer Sharing System
+  2812     0.32 Computer-Aided Analysis and Design of Information Systems
+   331     0.32 Successive Approximations and Computer Storage Problems in Ordi
+  1247     0.32 An Operating Environment for Dynamic-Recursive Computer Program
+  3154     0.31 Algorithm = Logic + Control
+  2560     0.31 A Queuing Model of a Multiprogrammed Computer with a Two-Level
+  2322     0.31 A View of computer Architecture
+   561     0.31 Analytic Differentiation By Computer
+   557     0.31 Simulation of Computer Timing Device
+  2181     0.31 The State of Computer Oriented Curricula in Business Schools 19
+  2371     0.31 A System for Interprocess Communication in a Resource Sharing C
+  3130     0.31 CURRICULUM '78 - Recommendations for the Undergraduate Program
+  1826     0.31 A LISP Garbage-Collector for Virtual-Memory Computer Systems
+  1754     0.31 Dynamic Storage Allocation Systems
+  2250     0.31 Computer Methods for Sampling from the Exponential and Normal D
+  1354     0.31 Conversion of Decision Tables to Computer Programs by Rule Mark
+  1197     0.31 Finding Zeros of a Polynomial by the Q-D Algorithm
+  1433     0.31 A Note on Linear Programming Algorithm Design: A Combinatorial
+  2663     0.31 A Study of Computer Use in a Graduate School of Business
+  1089     0.31 Designing a Computer Center
+  1071     0.30 Computer-Usage Accounting for Generalized Time-Sharing Systems
+  2194     0.30 How To Keep the Addresses Short
+  1927     0.30 Information Science in a Ph.D. Computer Science Program
+
+Request 2: parallel computing
+1. With frequence normalised :
+  1262     1.25 Procedure-Oriented Language Statements to Facilitate Parallel P
+  1525     1.00 On Computing The Fast Fourier Transform
+  1862     1.00 Computing Capabilities at Argentine and Chilean Universities
+  3156     1.00 Computing Connected Components on Parallel Computers
+  2896     1.00 An Exercise in Proving Parallel Programs Correct
+  2700     1.00 Reduction: A Method of Proving Properties of Parallel Programs
+  1411     1.00 Comparison of Several Algorithms for Computation of Means, Stan
+  1349     1.00 Computing Capabilities at Western European Universities
+   950     1.00 Parallel Methods for Integrating Ordinary Differential Equation
+  3086     1.00 On the Complexity of Computing the Measure of U[ai, bi]
+  2822     1.00 Homilies for Humble Standards
+  2780     1.00 On Computing Certain Elements of the Inverse of a Sparse Matrix
+  1224     1.00 Determining a Computing Center Environment
+  1158     1.00 Program Structures for Parallel Processing
+  2952     1.00 Functions Realizable with Word-Parallel Logical and Two's-Compl
+  2934     1.00 Comment on Computing the k Shortest Paths in a Graph
+  2615     1.00 Procedures for computing Smoothing and Interpolating Natural Sp
+  1795     1.00 Optimal Code for Serial and Parallel Computation
+  1302     1.00 Parallel Signaling Speeds for Data Transmission (Proposed Ameri
+  1105     1.00 On Introducing Digital Computing
+  1031     1.00 A Note on Starting the Newton-Raphson Method
+   830     1.00 CORC-The Cornell Computing Language
+   481     1.00 A One-Day Look At Computing
+   392     1.00 Comment on A Paper on Parallel Processing
+   147     1.00 Report on a Conference of University Computing Center Directors
+   141     1.00 Some Thoughts on Parallel Processing
+    80     1.00 A Technique for Computing Critical Rotational Speeds of Flexibl
+    72     1.00 An Educational Program in Computing
+  3035     0.80 A Strategic Planning Methodology for the Computing Effort in Hi
+  2851     0.80 Formal Verification of Parallel Programs
+  2197     0.80 The Merit of Regional Computing Networks
+  1601     0.80 Parallel Numerical Methods for the Solution of Equations
+  1811     0.75 A Case Study in Programming for Parallel-Processors
+  2865     0.75 Verifying Properties of Parallel Programs: An Axiomatic Approac
+  1468     0.75 Syntax-Directed Interpretation of Classes of Pictures
+  3011     0.67 Management Utilization of Computers in American Local Governmen
+  2810     0.67 Professionalism in the Computing Field
+  3158     0.67 Secure Personal Computing in an Insecure Network
+  3075     0.67 Fast Parallel Sorting Algorithms
+  3025     0.67 The Evolution of the DEC system 10
+  2741     0.67 Decomposability, Instabilities, and Saturation in Multiprogramm
+  2685     0.67 The Parallel Execution of DO Loops
+  2355     0.67 Implementing Clenshaw-Curtis quadrature, I Methodology and Expe
+  2195     0.67 On the Optimal Detection of Curves in Noisy Pictures
+  1889     0.67 Introducing Computing to Smaller Colleges and Universities -- A
+  1604     0.67 Further Analysis of a Computing Center Environment
+  1471     0.67 Programming Semantics for Multiprogrammed computations
+  1010     0.67 A Multiuser Computation Facility for Education and Research
+  2951     0.60 Dynamic Response Time Prediction for Computer Networks
+  1946     0.60 Computing Polynomial Resultants: Bezout's Determinant vs. Colli
+  2342     0.57 Interference Between Communicating Parallel Processes
+  2714     0.50 Merging with Parallel Processors
+  1747     0.50 Three Criteria for Designing Computing Systems to Facilitate De
+  2401     0.50 On Shrinking Binary Picture Patterns
+  2060     0.50 GEDANKEN-A Simple Typeless Language Based on the Principle of C
+  1846     0.50 On Simulating Networks of Parallel Processes in Which Simultane
+  1828     0.50 Synchronization in a Parallel-Accessed Data Base
+  3073     0.50 Communicating Sequential Processes
+  2973     0.50 Sorting on a Mesh-Connected Parallel Computer
+  2680     0.50 Optimal Space Allocation on Disk Storage Devices
+  2605     0.50 A Precise Numerical Analysis Program
+  2557     0.50 On the Time Required for a Sequence of Matrix Products
+  2454     0.50 Computational Algorithms for Closed Queueing Networks with Expo
+  2387     0.50 Maximum Computing Power and Cost Factors in the Centralization
+  1438     0.50 A Method for Locating Zeros of Complex Functions
+  1417     0.50 Economies of Scale and the IBM System/360
+  1367     0.50 Character Structure and Character Parity Sense for Parallel-by-
+  1363     0.50 A General Method of Systematic Interval Computation for Numeric
+  1200     0.50 On Reversible Subroutines and Computers that Run Backwards
+    96     0.50 On Computing Radiation Integrals
+    69     0.50 Statistical Programs for the IBM 650-Part I
+  3148     0.40 High Level Programming for Distributed Computing
+  3059     0.40 Models for Parallel Processing WIthin Programs: Application to
+  2883     0.40 An Application of Heuristic Search Methods to Edge and Contour
+  1745     0.40 A Position Paper on Computing and Communications
+  2266     0.33 A Highly Parallel Algorithm for Approximating All Zeros of a Po
+  2175     0.33 Subexpression Ordering in the Execution of Arithmetic Expressio
+  1810     0.33 Is Automatic "Folding" of Programs Efficient Enough To Displace
+  3175     0.33 Breaking Substitution Ciphers Using a Relaxation Algorithm
+  3090     0.33 Automated Welfare Client-Tracking and Service Integration: The
+  2947     0.33 SITAR: An Interactive Text Processing System for Small Computer
+  2895     0.33 A Language for Formal Problem Specification
+  2840     0.33 Protection in Operating Systems
+  2785     0.33 Glypnir-A Programming Language for Illiac IV
+  2769     0.33 A Modification of Warshall's Algorithm for the Transitive Closu
+  2745     0.33 A Linear Space Algorithm for Computing Maximal Common Subsequen
+  2630     0.33 On Computing Sets of Shortest Paths in a Graph
+  2514     0.33 An Array Grammar Programming System
+  2169     0.33 The Altran System for Rational Function Manipulation-A Survey
+  2147     0.33 Using Computers in Higher Education: Past Recommendations, Stat
+  2080     0.33 The Nucleus of a Multiprogramming System
+  1915     0.33 An Algorithm for Hidden Line Elimination
+  1873     0.33 Accelerating LP Algorithms
+  1854     0.33 On Multiprogramming, Machine Coding, and Computer Organization
+  1852     0.33 A Base for a Mobile Programming System
+  1603     0.33 A Multiprogramming Monitor for Small Machines
+  1565     0.33 A Language-Independent Macro Processor
+  1472     0.33 Description of a High Capacity, Fast Turnaround University Comp
+  1469     0.33 The Next 700 Programming Languages
+  1384     0.33 Mathematics for Undergraduate Computer Scientists
+
+2.with tf*idf normalised:
+  1262     1.13 Procedure-Oriented Language Statements to Facilitate Parallel P
+  1811     1.09 A Case Study in Programming for Parallel-Processors
+  1601     1.00 Parallel Numerical Methods for the Solution of Equations
+  2685     0.96 The Parallel Execution of DO Loops
+  2896     0.85 An Exercise in Proving Parallel Programs Correct
+   392     0.81 Comment on A Paper on Parallel Processing
+  2342     0.78 Interference Between Communicating Parallel Processes
+  1747     0.76 Three Criteria for Designing Computing Systems to Facilitate De
+  1795     0.75 Optimal Code for Serial and Parallel Computation
+  2865     0.73 Verifying Properties of Parallel Programs: An Axiomatic Approac
+  1158     0.73 Program Structures for Parallel Processing
+  1471     0.71 Programming Semantics for Multiprogrammed computations
+  2780     0.70 On Computing Certain Elements of the Inverse of a Sparse Matrix
+  3075     0.70 Fast Parallel Sorting Algorithms
+  1224     0.70 Determining a Computing Center Environment
+  1862     0.70 Computing Capabilities at Argentine and Chilean Universities
+  2851     0.69 Formal Verification of Parallel Programs
+  1525     0.69 On Computing The Fast Fourier Transform
+  2700     0.66 Reduction: A Method of Proving Properties of Parallel Programs
+  1468     0.66 Syntax-Directed Interpretation of Classes of Pictures
+   950     0.66 Parallel Methods for Integrating Ordinary Differential Equation
+  1349     0.66 Computing Capabilities at Western European Universities
+  1604     0.64 Further Analysis of a Computing Center Environment
+    72     0.64 An Educational Program in Computing
+  1411     0.63 Comparison of Several Algorithms for Computation of Means, Stan
+  3086     0.61 On the Complexity of Computing the Measure of U[ai, bi]
+  3035     0.60 A Strategic Planning Methodology for the Computing Effort in Hi
+  3156     0.60 Computing Connected Components on Parallel Computers
+  1105     0.59 On Introducing Digital Computing
+  2951     0.59 Dynamic Response Time Prediction for Computer Networks
+  2060     0.59 GEDANKEN-A Simple Typeless Language Based on the Principle of C
+  3011     0.57 Management Utilization of Computers in American Local Governmen
+  2934     0.57 Comment on Computing the k Shortest Paths in a Graph
+   481     0.57 A One-Day Look At Computing
+  2952     0.57 Functions Realizable with Word-Parallel Logical and Two's-Compl
+  1367     0.57 Character Structure and Character Parity Sense for Parallel-by-
+  1302     0.57 Parallel Signaling Speeds for Data Transmission (Proposed Ameri
+   141     0.57 Some Thoughts on Parallel Processing
+  2197     0.56 The Merit of Regional Computing Networks
+  2714     0.56 Merging with Parallel Processors
+  3148     0.55 High Level Programming for Distributed Computing
+  1828     0.55 Synchronization in a Parallel-Accessed Data Base
+  1031     0.54 A Note on Starting the Newton-Raphson Method
+  1846     0.53 On Simulating Networks of Parallel Processes in Which Simultane
+  2195     0.51 On the Optimal Detection of Curves in Noisy Pictures
+  3158     0.49 Secure Personal Computing in an Insecure Network
+  2741     0.49 Decomposability, Instabilities, and Saturation in Multiprogramm
+  1010     0.49 A Multiuser Computation Facility for Education and Research
+  2727     0.49 Multiple Byte Processing with Full-Word Instructions
+  1200     0.49 On Reversible Subroutines and Computers that Run Backwards
+  1745     0.48 A Position Paper on Computing and Communications
+  3059     0.48 Models for Parallel Processing WIthin Programs: Application to
+  1852     0.45 A Base for a Mobile Programming System
+  1363     0.45 A General Method of Systematic Interval Computation for Numeric
+  2810     0.45 Professionalism in the Computing Field
+  2883     0.44 An Application of Heuristic Search Methods to Edge and Contour
+  2266     0.43 A Highly Parallel Algorithm for Approximating All Zeros of a Po
+  2355     0.43 Implementing Clenshaw-Curtis quadrature, I Methodology and Expe
+  1889     0.43 Introducing Computing to Smaller Colleges and Universities -- A
+  2822     0.42 Homilies for Humble Standards
+  2615     0.42 Procedures for computing Smoothing and Interpolating Natural Sp
+  2605     0.42 A Precise Numerical Analysis Program
+   830     0.42 CORC-The Cornell Computing Language
+   147     0.42 Report on a Conference of University Computing Center Directors
+    80     0.42 A Technique for Computing Critical Rotational Speeds of Flexibl
+  3073     0.41 Communicating Sequential Processes
+  1109     0.41 Conversion of a Power to a Series of Chebyshev Polynomials*
+  1957     0.41 The List Set Generator: A Construct for Evaluating Set Expressi
+  1186     0.40 Recursive Solution of a Class Of Combinatorial Problems: An Exa
+  2570     0.40 A Comparison of List Schedules for Parallel Processing Systems
+  2514     0.40 An Array Grammar Programming System
+  2401     0.39 On Shrinking Binary Picture Patterns
+  2557     0.39 On the Time Required for a Sequence of Matrix Products
+  1854     0.39 On Multiprogramming, Machine Coding, and Computer Organization
+  3025     0.37 The Evolution of the DEC system 10
+  1946     0.37 Computing Polynomial Resultants: Bezout's Determinant vs. Colli
+  2745     0.37 A Linear Space Algorithm for Computing Maximal Common Subsequen
+  2895     0.37 A Language for Formal Problem Specification
+  1613     0.37 One-Pass Compilation of Arithmetic Expressions for a Parallel P
+  2175     0.37 Subexpression Ordering in the Execution of Arithmetic Expressio
+  1603     0.37 A Multiprogramming Monitor for Small Machines
+  1438     0.37 A Method for Locating Zeros of Complex Functions
+  1569     0.36 Implementing Phrase-Structure Productions in PL/I
+   300     0.36 COBOL: A Sample Problem
+   111     0.34 On Programming the Numerical Solution of Polynomial Equations
+  1544     0.34 Tele-CUPL: A Telephone Time Sharing System
+  2973     0.33 Sorting on a Mesh-Connected Parallel Computer
+  2357     0.33 MUX, a Simple Approach to On-Line Computing
+    69     0.33 Statistical Programs for the IBM 650-Part I
+  2081     0.33 Some Complete Calculi for Matrices
+  1469     0.33 The Next 700 Programming Languages
+  2387     0.32 Maximum Computing Power and Cost Factors in the Centralization
+  1571     0.32 A User-Oriented Time-Shared Online System
+  3166     0.32 Computing Standard Deviations: Accuracy
+  2147     0.32 Using Computers in Higher Education: Past Recommendations, Stat
+  1325     0.32 Remote, On-Line, Real-time Computer Diagnosis of the Clinical E
+  1381     0.31 Impact of Computers on the Undergraduate Mathematics Curriculum
+  2840     0.31 Protection in Operating Systems
+  1784     0.31 Practical Error Coefficients for Estimating Quadrature Errors f
+   759     0.30 Continued Operation Notation for Symbol Manipulation and Array
+
